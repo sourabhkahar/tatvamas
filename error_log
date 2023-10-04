@@ -1,0 +1,2 @@
+[07-Aug-2023 22:50:12 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Patient::edit() in /home/tatvamas/public_html/application/controllers/admin/Patient.php on line 237
+[07-Aug-2023 22:50:36 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Patient::edit() in /home/tatvamas/public_html/application/controllers/admin/Patient.php on line 237

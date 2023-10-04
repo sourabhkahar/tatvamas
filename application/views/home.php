@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<title>HOME PAGE</title>
+	<link href="./Index_files/themify-icons.css" rel="stylesheet" />
+	<link href="./Index_files/vendor.bundle.base.css" rel="stylesheet" />
+	<link href="./Index_files/style.css" rel="stylesheet" />
+	<link href="http://localhost/projects/tatvamas/apple-icon.png" rel="apple-touch-icon" />
+	<link href="http://localhost/projects/tatvamas/favicon.ico" rel="shortcut icon" />
+	<link href="./Index_files/bootstrap.min.css" rel="stylesheet" />
+	<link href="./Index_files/fontawsom-all.min.css" rel="stylesheet" />
+	<link href="./Index_files/review-slider.css" rel="stylesheet" type="text/css" />
+	<link href="./Index_files/animate.css" rel="stylesheet" />
+	<link href="./Index_files/style(1).css" rel="stylesheet" type="text/css" />
+	<link href="./Index_files/1744f3f671.css" media="all" rel="stylesheet" />
+</head>
+<body data-gr-ext-installed="" data-new-gr-c-s-check-loaded="14.1117.0"><!-- ################# Header Starts Here#######################--->
+<header>
+<div class="header-nav scroll-to-fixed-fixed" id="nav-head">
+<div class="container">
+<div class="row">
+<div class="col-lg-5 col-md-3 no-padding col-sm-12 nav-img"><img alt="" src="./Index_files/logo.jpg" style="width:80px;" /></div>
+
+<div class="col-lg-7 col-md-9 d-none d-md-block nav-item" id="menu" style="float: right;">
+<ul>
+	<li><a href="http://localhost/projects/tatvamas/">Home</a></li>
+	<li><a href="http://localhost/projects/tatvamas/#about_us">About Us</a></li>
+	<li><a href="http://localhost/projects/tatvamas/#services">Services</a></li>
+	<li><a href="http://localhost/projects/tatvamas/#testim">Reviews</a></li>
+	<li><a href="http://localhost/projects/tatvamas/#connect">Contact Us</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+
+</header>
+<!-- ################# Slider Starts Here#######################--->
+
+<div class="slider-detail">
+<div class="carousel slide" data-ride="carousel" id="carouselExampleIndicators">
+<ol class="carousel-indicators">
+	<li class="active" data-slide-to="0" data-target="#carouselExampleIndicators"></li>
+	<li data-slide-to="1" data-target="#carouselExampleIndicators"></li>
+	<li data-slide-to="2" data-target="#carouselExampleIndicators"></li>
+</ol>
+
+<div class="carousel-inner">
+<div class="carousel-item active"><img alt="First slide" class="d-block w-100" src="./Index_files/BDH00554.JPG" />
+<div class="carousel-caption vdg-cur d-none d-md-block">
+<h5 class="animated bounceInDown" style="color: #03509e;">why this clinic software?</h5>
+
+<p class="animated bounceInLeft" style="color: #03509e;">In our clinic software you will get these following things:- 1)Powerful website 2)patient app 3)OPD management 4)prescription 5)patient History 6)Application for appointment 7)Appointment presence on/off 8)online prescription</p>
+</div>
+</div>
+
+<div class="carousel-item "><img alt="Second slide" class="d-block w-100" src="./Index_files/DSC09741.JPG" />
+<div class="carousel-caption vdg-cur d-none d-md-block">
+<h5 class="animated bounceInDown" style="color: #03fcdf;">Who can benefit from this clinic software?</h5>
+
+<p class="animated bounceInLeft" style="color: #03fcdf;">Every Doctor who wants to transform their business online, by providing offline services you will be able to target in only one particular area but by providing online services you will be able to target your customer all over the world.</p>
+</div>
+</div>
+
+<div class="carousel-item "><img alt="Third slide" class="d-block w-100" src="./Index_files/BDH00566.JPG" />
+<div class="carousel-caption vdg-cur d-none d-md-block">
+<h5 class="animated bounceInDown" style="color: #03509e;">How this clinic software will help you?</h5>
+
+<p class="animated bounceInLeft" style="color: #03509e;">Our clinic software will help you going digitally and become a part of digital India revolution with the help of this clinic software.</p>
+</div>
+</div>
+</div>
+<a class="carousel-control-prev" data-slide="prev" href="http://localhost/projects/tatvamas/#carouselExampleIndicators" role="button"><span class="sr-only">Previous</span> </a> <a class="carousel-control-next" data-slide="next" href="http://localhost/projects/tatvamas/#carouselExampleIndicators" role="button"> <span class="sr-only">Next</span> </a></div>
+</div>
+<!-- ################# Key Features Starts Here#######################--->
+
+<section class="key-features">
+<div class="row no-margin">
+<div class="col-lg-3 kvxol col-md-6">
+<div class="single-key ky-1">
+<h5>Newest Technologies</h5>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut erat nec leo lobortis blandit.</p>
+</div>
+</div>
+
+<div class="col-lg-3 kvxol  col-md-6">
+<div class="single-key ky-2">
+<h5>Experianced Doctors</h5>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut erat nec leo lobortis blandit.</p>
+</div>
+</div>
+
+<div class="col-lg-3 kvxol col-md-6">
+<div class="single-key ky-1">
+<h5>High Customer Satisfaction</h5>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut erat nec leo lobortis blandit.</p>
+</div>
+</div>
+
+<div class="col-lg-3 kvxol col-md-6">
+<div class="single-key ky-2">
+<h5>Pharma Pipeline</h5>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut erat nec leo lobortis blandit.</p>
+</div>
+</div>
+</div>
+</section>
+<!-- ################# With Medical Starts Here#######################--->
+
+<section class="with-medical" id="about_us">
+<div class="container">
+<div class="row">
+<div class="col-lg-6 col-md-12 txtr">
+<h2>About Us</h2>
+&nbsp;
+
+<h4><span>clinic doctor</span></h4>
+
+<h5><span>tatvamasi , MBBS</span></h5>
+
+<h5><span>7yrs as Medical Off.</span></h5>
+&nbsp;
+
+<p>Clinic software is a software Which helps your customers to track their online prescription&rsquo;s, they can easily book their appointment via online they don&rsquo;t need to round around hospital, we are giving you the best clinic software in a very nominal amount of money because our mission is to help all the doctors of India to make their Presence online, go digitally and become a part of digital India revolution as well as increase their revenue by enhancing their service with paper kind of things to bring all the service digitally and help their customers to reach them easily. Clinic software will help you running your business smoothly, smarter, faster. You don&rsquo;t need to hire someone to track of your customer appointment and maintaining their data, all you need is just our clinic software which will automate your business and save your money with investing at a one time in software instead of invest every time on hire someone to track these.</p>
+</div>
+
+<div class="col-lg-6 col-md-12"><img alt="" src="./Index_files/logo(1).pdf" /></div>
+</div>
+</div>
+</section>
+<!-- ################# Our Departments Starts Here#######################--->
+
+<section class="key-features department" id="services">
+<div class="container">
+<div class="inner-title">
+<h2>Our Key Features</h2>
+
+<p>Take a look at some of our key features</p>
+</div>
+
+<div class="row">
+<div class="col-lg-4 col-md-6">
+<div class="single-key">
+<h5>Cardiology</h5>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut erat nec leo lobortis blandit.</p>
+</div>
+</div>
+
+<div class="col-lg-4 col-md-6">
+<div class="single-key">
+<h5>Orthopaedic</h5>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut erat nec leo lobortis blandit.</p>
+</div>
+</div>
+
+<div class="col-lg-4 col-md-6">
+<div class="single-key">
+<h5>Neurologist</h5>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut erat nec leo lobortis blandit.</p>
+</div>
+</div>
+
+<div class="col-lg-4 col-md-6">
+<div class="single-key">
+<h5>Pharma Pipeline</h5>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut erat nec leo lobortis blandit.</p>
+</div>
+</div>
+
+<div class="col-lg-4 col-md-6">
+<div class="single-key">
+<h5>Pharma Team</h5>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut erat nec leo lobortis blandit.</p>
+</div>
+</div>
+
+<div class="col-lg-4 col-md-6">
+<div class="single-key">
+<h5>High Quality treatments</h5>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut erat nec leo lobortis blandit.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!--################## Review Starts Here#######################-->
+
+<section class="our-blog testim" id="testim">
+<div class="row session-title">
+<h2>Reviews</h2>
+
+<p>Take a look at what people say about US</p>
+</div>
+
+<div class="wrap">
+<ul class="dots" id="testim-dots">
+	<li class="dot active"></li>
+	<!--
+                    -->
+	<li class="dot"></li>
+	<!--
+                    -->
+	<li class="dot"></li>
+	<!--
+                    -->
+	<li class="dot"></li>
+	<!--
+                    -->
+	<li class="dot"></li>
+</ul>
+
+<div class="cont" id="testim-content">
+<div class="active">
+<div class="img"><img alt="" src="./Index_files/DSC00206.JPG" /></div>
+
+<h2>Mr. Dhanush Kishore</h2>
+
+<p>I am a U.S based Doctor, I have used this clinic software and I want to say this is best clinic software that I have ever discovered.</p>
+</div>
+
+<div>
+<div class="img"><img alt="" src="./Index_files/face2.jpg" /></div>
+
+<h2>Mrs. Lorea</h2>
+
+<p>I am a Nepal based Doctor, I have used lot of clinic software and I want to say this is best clinic software that I have ever used.</p>
+</div>
+
+<div>
+<div class="img"><img alt="" src="./Index_files/face3.jpg" /></div>
+
+<h2>Mr. shubham sharma</h2>
+
+<p>I want to say a lot but if I want to say in one word how is this clinic software? I would like to say Amazing!</p>
+</div>
+
+<div>
+<div class="img"><img alt="" src="./Index_files/face4.jpg" /></div>
+
+<h2>Mr. Lorem</h2>
+
+<p>My father is a Doctor and he was using old methods to store a track of his patient and all in the while I have found this clinic software and I recommend to my father used this software and now he is easily and smoothly doing all his work, he is happy and satisfied and I recommend to every Doctor to use this software</p>
+</div>
+
+<div class="inactive">
+<div class="img"><img src="./Index_files/face11.jpg" /></div>
+
+<h2>Ms. Lorem ipsum</h2>
+
+<p>I would like to say this is value for money product and I recommened to all the doctors to use this software.</p>
+</div>
+</div>
+</div>
+<!--         </div> --></section>
+<!-- ################# Connect form Starts Here#######################-->
+
+<section class="our-blog" id="connect" style="background-color: #f7f7ff !important;">
+<div class="container"><!--<div class="row session-title">
+        			<h2> Connect With US </h2>
+        		</div>-->
+<div class="row">
+<div class="col-lg-5 col-md-12">
+<div>
+<figure><iframe allowfullscreen="" loading="lazy" src="./Index_files/123.html" style="border:0;" width="80%"></iframe></figure>
+
+<div class="blog-detail">
+<h4>Connect With Us</h4>
+
+<address class="md-margin-bottom-40">Dr.<br />
+8401352626<br />
+8401352626<br />
+Phone: +91 8401352626<br />
+Email: <a href="mailto:tatvmasiho@gmail.com">tatvmasiho@gmail.com</a><br />
+Web: <a href="http://localhost/projects/tatvamas/www.tatvmasicarecom">www.minsdtien.in</a></address>
+
+<div class="link template-demo"><button class="btn btn-social-icon btn-outline-facebook" type="button"></button><button class="btn btn-social-icon btn-outline-youtube" type="button"></button><button class="btn btn-social-icon btn-outline-twitter" type="button"></button><button class="btn btn-social-icon btn-outline-linkedin" type="button"></button></div>
+</div>
+</div>
+</div>
+
+<div class="col-lg-1"></div>
+
+<div class="col-lg-6 col-md-12">
+<div class="single-blog">
+<div class="session-title">
+<h2>Any Query ?</h2>
+</div>
+
+<div class="blog-detail">
+<form action="http://localhost/projects/tatvamas/" class="forms-sample" method="POST">
+<div class="form-group"><label for="exampleInputUsername1">Name</label> <input class="form-control" id="exampleInputUsername1" name="name" pattern="[a-zA-Z.\s]+" placeholder="Name" required="" type="text" /></div>
+
+<div class="form-group"><label for="exampleInputEmail1">Email address</label> <input class="form-control" id="exampleInputEmail1" name="email" placeholder="Email" required="" type="email" /></div>
+
+<div class="form-group"><label for="exampleInputPassword1">Contact</label> <input class="form-control" id="exampleInputPassword1" name="contact" pattern="[6789][0-9]{9}" placeholder="Contact No." required="" size="10" type="tel" /></div>
+
+<div class="form-group"><label for="exampleInputConfirmPassword2">Query</label><textarea class="form-control" id="exampleInputConfirmPassword2" name="query" placeholder="Your query" required=""></textarea></div>
+<button class="btn btn-primary mr-2" name="submit1" type="submit">Submit</button></form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<script src="./Index_files/1744f3f671.js.download"></script><!-- ################# Footer Starts Here#######################-->
+
+<div class="copy">
+<div class="container">
+<center><a href="http://localhost/projects/tatvamas/">2021 &copy; All Rights Reserved </a></center>
+</div>
+</div>
+<script src="./Index_files/review-slide.js.download"></script><script src="./Index_files/jquery-3.2.1.min.js.download"></script><script src="./Index_files/popper.min.js.download"></script><script src="./Index_files/bootstrap.min.js.download"></script><script src="./Index_files/jquery-scrolltofixed-min.js.download"></script><script src="./Index_files/script.js.download"></script><grammarly-desktop-integration data-grammarly-shadow-root="true"><template shadowrootmode="open">
+<style type="text/css">div.grammarly-desktop-integration {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select:none;
+    user-select:none;
+  }
+
+  div.grammarly-desktop-integration:before {
+    content: attr(data-content);
+  }
+</style>
+<div aria-label="grammarly-integration" class="grammarly-desktop-integration" data-content="{&quot;mode&quot;:&quot;limited&quot;,&quot;isActive&quot;:false,&quot;isUserDisabled&quot;:false}" role="group" tabindex="-1"></div>
+</template></grammarly-desktop-integration></body>
+</html>
